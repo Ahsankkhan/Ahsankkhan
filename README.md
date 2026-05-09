@@ -27,7 +27,6 @@ AI and software engineer based in Nuremberg, Germany. I build production-ready b
 
 ### Currently
 
-- Studying Artificial Intelligence
 - Building applied AI systems and backend integrations
 - Exploring agentic workflows, LLM evaluation, and production AI reliability
 
